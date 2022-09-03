@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""[Module of HBnB console]"""
+"""[Module of AirBnB The  console]"""
 
 import cmd
 import json

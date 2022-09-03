@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""[models/state module for HBnB Holberton's project]
+"""[models/state module]
     """
 from models.base_model import BaseModel
 

@@ -6,7 +6,7 @@ import models
 
 
 class BaseModel:
-    """[BaseModel class for the AirBnB project]
+    """[BaseModel class for the AirBnB project that defines all common attributes/methods for other classes]
     """
 
     def __init__(self, *args, **kwargs) -> None:

@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""[Module of AirBnB The  console]"""
+"""[Module of AirBnB clone -The console]"""
 
 import cmd
 import json
@@ -24,7 +24,7 @@ def get_content(args):
 
 
 class HBNBCommand(cmd.Cmd):
-    """[Class to implement HolbertonBnB console]
+    """[Class to implement AirBnB clone - The  console]
 
     Args:
         prompt ([str]): [Prompt to show]
@@ -142,7 +142,8 @@ class HBNBCommand(cmd.Cmd):
         pass
 
     def do_quit(self, arg):
-        """exits the program"""
+        
+        """Quit command to exit the program"""
         return True
 
     def do_EOF(self, arg):

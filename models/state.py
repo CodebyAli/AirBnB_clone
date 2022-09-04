@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""[models/state module]
+"""[models/state module for AirBnB project]
     """
 from models.base_model import BaseModel
 
